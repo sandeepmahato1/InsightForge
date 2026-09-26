@@ -1,0 +1,21 @@
+customer_id,gender,age,tenure_months,monthly_charges,total_charges,contract_type,tech_support,internet_service,payment_method,num_support_tickets,churn
+CUST-1001,Female,42,12,89.5,1074.0,Month-to-Month,No,Fiber Optic,Electronic Check,4,1
+CUST-1002,Male,34,36,54.2,1951.2,One Year,Yes,DSL,Bank Transfer,1,0
+CUST-1003,Female,61,3,102.1,306.3,Month-to-Month,No,Fiber Optic,Electronic Check,6,1
+CUST-1004,Male,28,48,20.5,984.0,Two Year,No,No,Credit Card,0,0
+CUST-1005,Female,52,8,95.0,760.0,Month-to-Month,No,Fiber Optic,Electronic Check,5,1
+CUST-1006,Male,45,60,110.4,6624.0,Two Year,Yes,Fiber Optic,Bank Transfer,1,0
+CUST-1007,Female,23,18,65.8,1184.4,Month-to-Month,Yes,DSL,Electronic Check,2,0
+CUST-1008,Male,67,2,85.2,170.4,Month-to-Month,No,Fiber Optic,Electronic Check,7,1
+CUST-1009,Female,39,24,78.3,1879.2,One Year,Yes,DSL,Credit Card,1,0
+CUST-1010,Male,55,5,99.9,499.5,Month-to-Month,No,Fiber Optic,Electronic Check,4,1
+CUST-1011,Female,31,42,45.0,1890.0,One Year,Yes,DSL,Bank Transfer,0,0
+CUST-1012,Male,48,1,105.6,105.6,Month-to-Month,No,Fiber Optic,Electronic Check,5,1
+CUST-1013,Female,29,30,88.7,2661.0,One Year,No,Fiber Optic,Credit Card,2,0
+CUST-1014,Male,63,6,92.4,554.4,Month-to-Month,No,Fiber Optic,Electronic Check,6,1
+CUST-1015,Female,41,54,64.2,3466.8,Two Year,Yes,DSL,Bank Transfer,0,0
+CUST-1016,Male,37,15,70.1,1051.5,Month-to-Month,No,DSL,Electronic Check,3,0
+CUST-1017,Female,58,4,98.3,393.2,Month-to-Month,No,Fiber Optic,Electronic Check,5,1
+CUST-1018,Male,26,22,25.4,558.8,One Year,No,No,Mailed Check,0,0
+CUST-1019,Female,50,9,101.5,913.5,Month-to-Month,No,Fiber Optic,Electronic Check,4,1
+CUST-1020,Male,33,40,82.0,3280.0,One Year,Yes,Fiber Optic,Credit Card,1,0

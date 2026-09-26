@@ -1,0 +1,17 @@
+# Render Blueprint Infrastructure-as-Code for InsightForge Native Python Deployment
+# Documentation: https://render.com/docs/blueprint-spec
+
+services:
+  - type: web
+    name: insightforge
+    env: python
+    region: oregon
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn -k uvicorn.workers.UvicornWorker backend.main:app
+    autoDeploy: true
+    envVars:
+      - key: GEMINI_MODEL_NAME
+        value: gemini-3.6-flash
+      - key: GEMINI_API_KEY
+        sync: false
